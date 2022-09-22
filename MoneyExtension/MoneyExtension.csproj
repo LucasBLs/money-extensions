@@ -6,7 +6,7 @@
 
     <PackageId>MoneyExtensionsLL</PackageId>
     <Version>1.0.0</Version>
-    <icon>https://baltaio.blob.core.windows.net/static/images/icons/flunt-icon.png</icon>
+    <!-- <icon>https://baltaio.blob.core.windows.net/static/images/icons/flunt-icon.png</icon> -->
     <License>MIT</License>
     <Authors>Lucas Lemos</Authors>
     <!-- <Company></Company> -->
